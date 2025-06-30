@@ -5,9 +5,9 @@
 ### This is a project presented by group 1 (Spply Chain SQL Project Group ).
 
 **Names of group members:**
-* (1)
-* (2)
-* (3)
+* Ejiro Oghene Onofuevure - Modrator
+* Raphael Obinna Onyedikachi
+* Alerah Happiness
 * (4)
 * (5)
 * (6)
