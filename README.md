@@ -39,6 +39,11 @@ the most severe availability gaps or quality issues (inferred from ReturnStatus)
 * MYSQL Workbench: Used for the analysis.
 
 ### For the dataset click the links below.
+[Customers Table]()
+[Order Table]()
+[Order_items Table]()
+[Products Table]()
+[Suppliers Table]()
 
 
 
