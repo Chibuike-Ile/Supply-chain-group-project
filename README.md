@@ -5,7 +5,7 @@
 ### This is a project presented by group 1 (Spply Chain SQL Project Group ).
 
 **Names of group members:**
-* Ejiro Oghene Onofuevure - Moderator
+* EjiroOghene Onofuevure - Moderator
 * Raphael Obinna Onyedikachi
 * Alerah Happiness
 * (4)
@@ -13,7 +13,7 @@
 * (6)
 * (7)
 * (8)
-* (9)
+* Chibuike Ile
 
 ### Problem Statement:
 **Rapid Sales Growth in the Port Harcourt Market Reveals Critical Bottlenecks in Product Availability and Order Fulfillment, Threatening Customer Retention for Newly Acquired Customers.**
