@@ -63,8 +63,8 @@ the most severe availability gaps or quality issues (inferred from ReturnStatus)
 ![Question 1](https://github.com/user-attachments/assets/123b62d4-64e6-4e3d-a814-c8f9ee54d803)
 
 * Attached is the CSV File for the 200 product fro the query above.
-* 
-[click here for the CSV file]()
+  
+[click here for the CSV file](https://github.com/Chibuike-Ile/Supply-chain-group-project/blob/main/For%20report/200%20product%20frequently%20out%20of%20order.csv)
 
   ### Question 2
   **We were not able to slove this question. We get stocked as shown below.
