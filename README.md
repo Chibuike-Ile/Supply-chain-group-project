@@ -2,7 +2,7 @@
 
 ## An overview of the project.
 
-### This is a project presented by group 1 (Spply Chain SQL Project Group 1).
+### This is a project presented by group 1 (Spply Chain SQL Project Group ).
 
 **Names of group members:**
 * (1)
