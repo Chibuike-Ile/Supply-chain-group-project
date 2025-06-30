@@ -38,7 +38,9 @@ the most severe availability gaps or quality issues (inferred from ReturnStatus)
 * Excel: Used for data cleaning and preparation.
 * MYSQL Workbench: Used for the analysis.
 
-### For the dataset click the links below.
+### Data source: Silvy
+
+**For the dataset click the links below.**
 
 [Customers Table](https://github.com/Chibuike-Ile/Supply-chain-group-project/blob/main/Dataset/customers.csv)
 
@@ -67,11 +69,11 @@ the most severe availability gaps or quality issues (inferred from ReturnStatus)
 [click here for the CSV file](https://github.com/Chibuike-Ile/Supply-chain-group-project/blob/main/For%20report/200%20product%20frequently%20out%20of%20order.csv)
 
   ### Question 2
-  **We were not able to slove this question. We get stocked as shown below.
+  **We were not able to slove this question. We get stocked as shown below.**
   
 ![Question 2](https://github.com/user-attachments/assets/08e58889-7b91-44df-ae0f-cf05114b0777)
 
-**We are working on this question and will solve it in due time. We submit because we don't want to exceed the submition date.
+* We are working on this question and will solve it in due time. We submit because we don't want to exceed the submission date.
 
 ### Question 3
 **suppliers linked to the products experiencing the most severe availability gaps or quality issues (inferred from ReturnStatus) that impede smooth order fulfillment to the Port Harcourt market.**
@@ -82,6 +84,15 @@ the most severe availability gaps or quality issues (inferred from ReturnStatus)
 
 [click here for the CSV file](https://github.com/Chibuike-Ile/Supply-chain-group-project/blob/main/For%20report/Supplier-Related%20Fulfillment%20Constraints.csv)
 
+
+### Recommendation:
+
+
+### Challenges encountered:
+
+* Having a suitable time for everyone: We fix this using whatsapp poll, which allowed us to vote and go by majority.
+* During data cleaning and preparation we encounter issues with the scientific notation on ExpectedDeliveryDate and ActualDeliveryDate. This was fixed by one of us.
+* Querry optimization.
 
 
 
