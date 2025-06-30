@@ -43,7 +43,7 @@ the most severe availability gaps or quality issues (inferred from ReturnStatus)
 [Order Table](https://github.com/Chibuike-Ile/Supply-chain-group-project/blob/main/Dataset/New_Order.csv)
 [Order_items Table](https://github.com/Chibuike-Ile/Supply-chain-group-project/blob/main/Dataset/order_items.csv)
 [Products Table](https://github.com/Chibuike-Ile/Supply-chain-group-project/blob/main/Dataset/products.csv)
-[Suppliers Table]()
+[Suppliers Table](https://github.com/Chibuike-Ile/Supply-chain-group-project/blob/main/Dataset/suppliers.csv)
 
 
 
