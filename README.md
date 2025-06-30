@@ -8,12 +8,13 @@
 * EjiroOghene Onofuevure - Moderator
 * Raphael Obinna Onyedikachi
 * Alerah Happiness
-* (4)
-* (5)
-* (6)
-* (7)
-* (8)
+* Isaac Chibite
 * Chibuike Ile
+* Dr. Ade
+* Suleman
+* Temmie
+* Ayomide
+
 
 ### Problem Statement:
 **Rapid Sales Growth in the Port Harcourt Market Reveals Critical Bottlenecks in Product Availability and Order Fulfillment, Threatening Customer Retention for Newly Acquired Customers.**
@@ -57,25 +58,32 @@ the most severe availability gaps or quality issues (inferred from ReturnStatus)
 [Suppliers Table](https://github.com/Chibuike-Ile/Supply-chain-group-project/blob/main/Dataset/suppliers.csv)
 
 
+## Analysis done
 
-### Question 1
+
+### Pinpoint Key Product Availability Gaps
+--------------------------------------------
 **200 products most frequently out of stock or major contributors to canelled orders.**
-**We limit this to only Port Harcourt markect.**
+**We limit this to Port Harcourt markect and surrounding areas.**
 
-![Question 1](https://github.com/user-attachments/assets/123b62d4-64e6-4e3d-a814-c8f9ee54d803)
+![Question 1]()
 
 * Attached is the CSV File for the 200 product from the query above.
   
 [click here for the CSV file](https://github.com/Chibuike-Ile/Supply-chain-group-project/blob/main/For%20report/200%20product%20frequently%20out%20of%20order.csv)
 
-  ### Question 2
+  ### Impact on Recent Customer Cohorts
+  ---------------------------------------------
+  
   **We were not able to slove this question. We get stocked as shown below.**
   
 ![Question 2](https://github.com/user-attachments/assets/08e58889-7b91-44df-ae0f-cf05114b0777)
 
 * We are working on this question and will solve it in due time. We submit because we don't want to exceed the submission date.
 
-### Question 3
+### Top Supplier-Related Fulfillment Constraints
+------------------------------------------------
+
 **suppliers linked to the products experiencing the most severe availability gaps or quality issues (inferred from ReturnStatus) that impede smooth order fulfillment to the Port Harcourt market.**
 
 ![Question 3](https://github.com/user-attachments/assets/b4703620-7df7-41b0-b3c5-59d3bfd136bb)
