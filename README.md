@@ -76,7 +76,7 @@ the most severe availability gaps or quality issues (inferred from ReturnStatus)
 
 
 * Port Harcourt markect are mostly hit by frequently out of stock and Cancelled orders than other cities.
-* An investigation should be done so as to kown the reasons behind it and action carried out to prevent it in the nearest furture. 
+* An investigation should be done so as to kown the reasons behind it and action carried out to stop it in the nearest furture based on the out come of the investigation. 
 
   
   
