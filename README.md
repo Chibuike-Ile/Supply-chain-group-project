@@ -39,7 +39,7 @@ the most severe availability gaps or quality issues (inferred from ReturnStatus)
 * MYSQL Workbench: Used for the analysis.
 
 ### For the dataset click the links below.
-[Customers Table]()
+[Customers Table](https://github.com/Chibuike-Ile/Supply-chain-group-project/blob/main/Dataset/customers.csv)
 [Order Table](https://github.com/Chibuike-Ile/Supply-chain-group-project/blob/main/Dataset/New_Order.csv)
 [Order_items Table]()
 [Products Table]()
