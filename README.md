@@ -39,10 +39,19 @@ the most severe availability gaps or quality issues (inferred from ReturnStatus)
 * MYSQL Workbench: Used for the analysis.
 
 ### For the dataset click the links below.
+
 [Customers Table](https://github.com/Chibuike-Ile/Supply-chain-group-project/blob/main/Dataset/customers.csv)
+
+
 [Order Table](https://github.com/Chibuike-Ile/Supply-chain-group-project/blob/main/Dataset/New_Order.csv)
+
+
 [Order_items Table](https://github.com/Chibuike-Ile/Supply-chain-group-project/blob/main/Dataset/order_items.csv)
+
+
 [Products Table](https://github.com/Chibuike-Ile/Supply-chain-group-project/blob/main/Dataset/products.csv)
+
+
 [Suppliers Table](https://github.com/Chibuike-Ile/Supply-chain-group-project/blob/main/Dataset/suppliers.csv)
 
 
@@ -54,6 +63,8 @@ the most severe availability gaps or quality issues (inferred from ReturnStatus)
 ![Question 1](https://github.com/user-attachments/assets/123b62d4-64e6-4e3d-a814-c8f9ee54d803)
 
 * Attached is the CSV File for the 200 product fro the query above.
+* 
+[click here for the CSV file]()
 
   ### Question 2
   **We were not able to slove this question. We get stocked as shown below.
@@ -68,6 +79,8 @@ the most severe availability gaps or quality issues (inferred from ReturnStatus)
 ![Question 3](https://github.com/user-attachments/assets/b4703620-7df7-41b0-b3c5-59d3bfd136bb)
 
 * Attached is the CSV File for the 200 product fro the query above.
+
+[click here for the CSV file]()
 
 
 
