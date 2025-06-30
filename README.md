@@ -63,12 +63,13 @@ the most severe availability gaps or quality issues (inferred from ReturnStatus)
 
 ### Pinpoint Key Product Availability Gaps
 --------------------------------------------
-**200 products most frequently out of stock or major contributors to canelled orders.**
-**We limit this to Port Harcourt markect and surrounding areas.**
+**200 products most frequently out of stock or major contributors to canelled orders, for shipments to Port Harcourt and surrounding areas**
 
-![Question 1]()
+![Question 1](https://github.com/user-attachments/assets/f62aeb3e-3485-42a2-8449-7efa469d834f)
+
 
 * Attached is the CSV File for the 200 product from the query above.
+  
   
 [click here for the CSV file](https://github.com/Chibuike-Ile/Supply-chain-group-project/blob/main/For%20report/200%20product%20frequently%20out%20of%20order.csv)
 
@@ -86,11 +87,12 @@ the most severe availability gaps or quality issues (inferred from ReturnStatus)
 
 **suppliers linked to the products experiencing the most severe availability gaps or quality issues (inferred from ReturnStatus) that impede smooth order fulfillment to the Port Harcourt market.**
 
-![Question 3](https://github.com/user-attachments/assets/b4703620-7df7-41b0-b3c5-59d3bfd136bb)
+![Question 3](https://github.com/user-attachments/assets/1a650628-ca63-492f-805b-c0f8e166baa3)
+
 
 * Attached is the CSV File for the 200 product fro the query above.
 
-[click here for the CSV file](https://github.com/Chibuike-Ile/Supply-chain-group-project/blob/main/For%20report/Supplier-Related%20Fulfillment%20Constraints.csv)
+[click here for the CSV file]()
 
 
 ### Recommendation:
