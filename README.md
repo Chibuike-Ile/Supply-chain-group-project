@@ -75,7 +75,7 @@ the most severe availability gaps or quality issues (inferred from ReturnStatus)
 ![Chart for Analysis 1](https://github.com/user-attachments/assets/49b68e08-e980-4afa-a337-24d55d1465ba)
 
 
-* Port Harcourt markect are mostly hit by frequently out and Cancelled orders than other cities.
+* Port Harcourt markect are mostly hit by frequently out of stock and Cancelled orders than other cities.
 * An investigation should be done so as to kown the reasons behind it and action carried out to prevent it in the nearest furture. 
 
   
