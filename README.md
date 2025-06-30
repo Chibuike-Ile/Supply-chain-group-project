@@ -92,7 +92,7 @@ the most severe availability gaps or quality issues (inferred from ReturnStatus)
 
 * Attached is the CSV File for the 200 product fro the query above.
 
-[click here for the CSV file]()
+[click here for the CSV file](https://github.com/Chibuike-Ile/Supply-chain-group-project/blob/main/For%20report/Supplier-Related%20Fulfillment%20Constraints.csv)
 
 
 ### Recommendation:
