@@ -61,7 +61,7 @@ the most severe availability gaps or quality issues (inferred from ReturnStatus)
 ## Analysis done
 
 
-### Pinpoint Key Product Availability Gaps
+### (1) Pinpoint Key Product Availability Gaps
 --------------------------------------------
 **200 products most frequently out of stock or major contributors to canelled orders, for shipments to Port Harcourt and surrounding areas**
 
@@ -84,7 +84,7 @@ the most severe availability gaps or quality issues (inferred from ReturnStatus)
   
   
 
-  ### Impact on Recent Customer Cohorts
+  ### (2) Impact on Recent Customer Cohorts
   ---------------------------------------------
   
   **We were not able to slove this question. We get stocked as shown below.**
@@ -93,7 +93,7 @@ the most severe availability gaps or quality issues (inferred from ReturnStatus)
 
 * We are working on this question and will solve it in due time. We submit because we don't want to exceed the submission date.
 
-### Top Supplier-Related Fulfillment Constraints
+### (3) Top Supplier-Related Fulfillment Constraints
 ------------------------------------------------
 
 **suppliers linked to the products experiencing the most severe availability gaps or quality issues (inferred from ReturnStatus) that impede smooth order fulfillment to the Port Harcourt market.**
