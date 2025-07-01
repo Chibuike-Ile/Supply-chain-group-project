@@ -36,7 +36,7 @@ the most severe availability gaps or quality issues (inferred from ReturnStatus)
 
 
 ### Tools used: 
-* Excel: Used for data cleaning and preparation, and visualisation.
+* Excel: Used for data cleaning, data preparation, and visualisation.
 * MYSQL Workbench: Used for the analysis.
 
 ### Data source: Silvy
@@ -70,7 +70,10 @@ the most severe availability gaps or quality issues (inferred from ReturnStatus)
 
 * Attached is the CSV File for the 200 product from the query above.
 
-### Findings and Recommendation
+
+[click here for the CSV file](https://github.com/Chibuike-Ile/Supply-chain-group-project/blob/main/For%20report/200%20product%20frequently%20out%20of%20order.csv)
+
+**Findings and Recommendation**
 
 ![Chart for Analysis 1](https://github.com/user-attachments/assets/49b68e08-e980-4afa-a337-24d55d1465ba)
 
@@ -80,7 +83,6 @@ the most severe availability gaps or quality issues (inferred from ReturnStatus)
 
   
   
-[click here for the CSV file](https://github.com/Chibuike-Ile/Supply-chain-group-project/blob/main/For%20report/200%20product%20frequently%20out%20of%20order.csv)
 
   ### Impact on Recent Customer Cohorts
   ---------------------------------------------
@@ -99,12 +101,12 @@ the most severe availability gaps or quality issues (inferred from ReturnStatus)
 ![Question 3](https://github.com/user-attachments/assets/1a650628-ca63-492f-805b-c0f8e166baa3)
 
 
-* Attached is the CSV File for the 200 product fro the query above.
+* Attached is the CSV File for Suppliers linked to product availability gaps or quality issues..
 
 [click here for the CSV file](https://github.com/Chibuike-Ile/Supply-chain-group-project/blob/main/For%20report/Supplier-Related%20Fulfillment%20Constraints.csv)
 
 
-### Findings and Recommendation
+**Findings and Recommendation**
 
 ![Chart for Analysis 3](https://github.com/user-attachments/assets/19eac791-ec2d-46f8-b92a-8a04ab0fa74d)
 
