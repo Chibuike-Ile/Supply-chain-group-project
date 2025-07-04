@@ -36,8 +36,9 @@ the most severe availability gaps or quality issues (inferred from ReturnStatus)
 
 
 ### Tools used: 
-* Excel: Used for data cleaning, data preparation, and visualisation.
+* Excel: Used for data cleaning, and data preparation.
 * MYSQL Workbench: Used for the analysis.
+* Power BI: Used for visualisation.
 
 ### Data source: Silvy
 
@@ -75,7 +76,15 @@ the most severe availability gaps or quality issues (inferred from ReturnStatus)
 
 **Findings and Recommendation**
 
-![Chart for Analysis 1](https://github.com/user-attachments/assets/49b68e08-e980-4afa-a337-24d55d1465ba)
+
+![No1a](https://github.com/user-attachments/assets/9b7d35af-fc25-4ac7-bbd3-fe61af50ced4)
+
+
+
+
+![No1](https://github.com/user-attachments/assets/deec176d-d2cb-4cb4-8ee5-96e02b64f70e)
+
+
 
 
 * Port Harcourt markect are mostly hit by frequently out of stock and Cancelled orders than other cities.
@@ -108,7 +117,12 @@ the most severe availability gaps or quality issues (inferred from ReturnStatus)
 
 **Findings and Recommendation**
 
-![Chart for Analysis 3](https://github.com/user-attachments/assets/19eac791-ec2d-46f8-b92a-8a04ab0fa74d)
+![No2a](https://github.com/user-attachments/assets/aa7acdc5-ad49-4f9c-b87f-d1bf1c6a046d)
+
+
+![No2](https://github.com/user-attachments/assets/82e4e397-9b29-4bba-912f-92b598aa2eed)
+
+
 
 
 * Meta-Hill has the most products availability gap or quality issues.
